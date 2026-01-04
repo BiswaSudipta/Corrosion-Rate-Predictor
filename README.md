@@ -136,7 +136,7 @@ The web app allows users to:
 
 ### 🚀 Live App
 
-👉 **[Launch Streamlit App](PASTE_YOUR_STREAMLIT_LINK_HERE)**
+👉 **[Launch Streamlit App]([PASTE_YOUR_STREAMLIT_LINK_HERE](https://corrosion-rate-predictor-fgt9v9cgsv8pyeg7ja2pcd.streamlit.app/))**
 
 *(Replace the link above after deployment)*
 
