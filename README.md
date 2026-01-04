@@ -239,3 +239,25 @@ Passionate about applying data-driven approaches to engineering problems
 
 ---
 
+# 🌐 **My Kaggle Profile**
+
+You can see my other projects on Kaggle:
+
+<div align="left">
+
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-View%20Notebook-blue?style=for-the-badge\&logo=kaggle)](https://www.kaggle.com/code/sudiptbiswas1)
+
+</div>
+
+---
+
+# 🔗 **Connect With Me**
+
+<div align="left">
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Sudipta%20Biswas-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sudipta-biswas-298915271/)
+
+</div>
+
+Thank You!
+
