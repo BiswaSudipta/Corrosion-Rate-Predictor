@@ -136,9 +136,19 @@ The web app allows users to:
 
 ### 🚀 Live App
 
-👉 **[Launch Streamlit App]([PASTE_YOUR_STREAMLIT_LINK_HERE](https://corrosion-rate-predictor-fgt9v9cgsv8pyeg7ja2pcd.streamlit.app/))**
+<p align="center">
+  <a href="https://corrosion-rate-predictor-fgt9v9cgsv8pyeg7ja2pcd.streamlit.app/" target="_blank">
+    <img 
+      src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png"
+      width="220"
+    />
+  </a>
+</p>
 
-*(Replace the link above after deployment)*
+<p align="center">
+  <b>🔗 Click the Streamlit logo to launch the Corrosion Rate Predictor Web App</b>
+</p>
+
 
 ---
 
